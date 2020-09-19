@@ -1,7 +1,7 @@
 # Site settings
 title: KEBIR MOUNDIR CHEMSEDDINE
 description: Jekyll Theme Minimal Resume
-baseurl: /blog # the subpath of your site, e.g. /blog
+baseurl: www.moundirchemseddine.ga # the subpath of your site, e.g. /blog
 url:  www.moundirchemseddine.ga
 
 # User settings
